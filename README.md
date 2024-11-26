@@ -12,7 +12,7 @@
 A simple project where the user has to guess a random number between a specified range. The application will give hints whether the guess is too high or too low. This game is designed for ease of use and provides a fun experience. 
 
 ## 🌐 Live Demo
-Check out the live demo of the Palindrome Checker [here](https://number-guess-play.netlify.app/).
+Check out the live demo of the Number Guessing Game [here](https://number-guess-play.netlify.app/).
 
 ## 📸 Project Preview
 Here's a sneak peek of the Number Guessing Game:
