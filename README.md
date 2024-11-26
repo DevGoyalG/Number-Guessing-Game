@@ -17,7 +17,7 @@ Check out the live demo of the Number Guessing Game [here](https://number-guess-
 ## 📸 Project Preview
 Here's a sneak peek of the Number Guessing Game:
 
-![Project Preview](assets/Palindrome-Checker.png)
+![Project Preview](assets/Number-Guessing-Game.png)
 
 ## 🚀 Features
 - The player has to guess a randomly generated number within a specified range.
